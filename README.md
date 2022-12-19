@@ -34,3 +34,10 @@ Our database consists of Citi Bike data curated in New York from August 2019. We
 * Our map charts highlight a correlation between urban settings and heavier volume of usage. Using starting point and ending point data we can see that hubs and bike repairs should be consistent with these findings. 
 
 ## Summary
+
+Based on our findings we can accurately describe our customers and build a business model that uses our data as a focal point. Who is our customer? What do they look like? Well studies suggest that males tend to use our product more than females. We also learn that our customers tend to use our product with the intention of commuting to and from work and we can correlate that data with our findings on condensed portions of the city seeing the highest volume of rides. 
+
+With all this in mind I’d suggest a marketing campaign that’s tailored to our findings as well as strategic locations for bike hubs and repair facilities. Regarding our findings related to gender specific categories, I’d suggest to our marketing staff to avoid focusing on the male aspect of the equation and find creative ways to balance the scale. In my opinion if we can strike an equal balance of customers by gender, our company will have a higher probability of success. 
+
+One conclusion that correlates our data with business-driven decisions is our customer to subscriber ratio. We cannot ignore the fact that we have a much higher subscriber count than customer count. This suggests that we should focus extensively on how to create new subscriptions and make subscriptions a core value to our business model. Incentives for subscriptions are paramount to our success. 
+
